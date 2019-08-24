@@ -1,0 +1,54 @@
+body {
+  font-family: 'Lexend Zetta', sans-serif;
+  font-size: 20px;
+  max-width: 1240px;
+  color: #ffffff;
+  background-color: #f9a602;
+  line-height: 1.5;
+  }
+h1{
+  font-size: 26px;
+}
+p{
+  color: #0080fe; 
+}
+
+a {
+  color: #c21807;
+  font-size: 16px;
+  text-decoration: none;
+  margin: 10px;
+}
+
+section {
+  height: 100vh;
+  background-position: 100% 50%; 
+  background-image: url('cc.jpg');
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-attachment: fixed;
+  margin: 40px;
+ }
+
+header{
+  position: fixed;
+  top: 50px;
+  left: 50px;
+}
+footer{
+  position: fixed;
+  bottom: 50px;
+  left: 50px;
+}
+a:hover{
+  color: #f9a602;
+}
+.image2{
+  background-image: url("cc2.jpg");
+}
+.image3{
+  background-image: url("cc3.jpg");
+  }
+.image4{
+  background-image: url("cc4.jpg");
+}
