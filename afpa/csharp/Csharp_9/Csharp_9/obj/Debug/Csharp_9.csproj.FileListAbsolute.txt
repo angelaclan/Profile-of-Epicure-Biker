@@ -1,0 +1,7 @@
+C:\Users\afpa\source\repos\Csharp_9\Csharp_9\bin\Debug\Csharp_9.exe.config
+C:\Users\afpa\source\repos\Csharp_9\Csharp_9\bin\Debug\Csharp_9.exe
+C:\Users\afpa\source\repos\Csharp_9\Csharp_9\bin\Debug\Csharp_9.pdb
+C:\Users\afpa\source\repos\Csharp_9\Csharp_9\obj\Debug\Csharp_9.csprojAssemblyReference.cache
+C:\Users\afpa\source\repos\Csharp_9\Csharp_9\obj\Debug\Csharp_9.csproj.CoreCompileInputs.cache
+C:\Users\afpa\source\repos\Csharp_9\Csharp_9\obj\Debug\Csharp_9.exe
+C:\Users\afpa\source\repos\Csharp_9\Csharp_9\obj\Debug\Csharp_9.pdb

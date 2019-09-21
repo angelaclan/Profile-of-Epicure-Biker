@@ -1,0 +1,7 @@
+C:\Users\afpa\source\repos\Csharp-exercise1\Csharp-exercise1\bin\Debug\Csharp-exercise1.exe.config
+C:\Users\afpa\source\repos\Csharp-exercise1\Csharp-exercise1\bin\Debug\Csharp-exercise1.exe
+C:\Users\afpa\source\repos\Csharp-exercise1\Csharp-exercise1\bin\Debug\Csharp-exercise1.pdb
+C:\Users\afpa\source\repos\Csharp-exercise1\Csharp-exercise1\obj\Debug\Csharp-exercise1.csprojAssemblyReference.cache
+C:\Users\afpa\source\repos\Csharp-exercise1\Csharp-exercise1\obj\Debug\Csharp-exercise1.csproj.CoreCompileInputs.cache
+C:\Users\afpa\source\repos\Csharp-exercise1\Csharp-exercise1\obj\Debug\Csharp-exercise1.exe
+C:\Users\afpa\source\repos\Csharp-exercise1\Csharp-exercise1\obj\Debug\Csharp-exercise1.pdb

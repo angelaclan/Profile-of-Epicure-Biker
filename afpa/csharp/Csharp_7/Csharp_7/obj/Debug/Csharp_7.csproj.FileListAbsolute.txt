@@ -1,0 +1,7 @@
+C:\Users\afpa\source\repos\Csharp_7\Csharp_7\obj\Debug\Csharp_7.csprojAssemblyReference.cache
+C:\Users\afpa\source\repos\Csharp_7\Csharp_7\obj\Debug\Csharp_7.csproj.CoreCompileInputs.cache
+C:\Users\afpa\source\repos\Csharp_7\Csharp_7\bin\Debug\Csharp_7.exe.config
+C:\Users\afpa\source\repos\Csharp_7\Csharp_7\bin\Debug\Csharp_7.exe
+C:\Users\afpa\source\repos\Csharp_7\Csharp_7\bin\Debug\Csharp_7.pdb
+C:\Users\afpa\source\repos\Csharp_7\Csharp_7\obj\Debug\Csharp_7.exe
+C:\Users\afpa\source\repos\Csharp_7\Csharp_7\obj\Debug\Csharp_7.pdb

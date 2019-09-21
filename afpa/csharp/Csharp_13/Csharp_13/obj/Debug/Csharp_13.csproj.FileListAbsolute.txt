@@ -1,0 +1,7 @@
+C:\Users\afpa\source\repos\Csharp_13\Csharp_13\bin\Debug\Csharp_13.exe.config
+C:\Users\afpa\source\repos\Csharp_13\Csharp_13\bin\Debug\Csharp_13.exe
+C:\Users\afpa\source\repos\Csharp_13\Csharp_13\bin\Debug\Csharp_13.pdb
+C:\Users\afpa\source\repos\Csharp_13\Csharp_13\obj\Debug\Csharp_13.csprojAssemblyReference.cache
+C:\Users\afpa\source\repos\Csharp_13\Csharp_13\obj\Debug\Csharp_13.csproj.CoreCompileInputs.cache
+C:\Users\afpa\source\repos\Csharp_13\Csharp_13\obj\Debug\Csharp_13.exe
+C:\Users\afpa\source\repos\Csharp_13\Csharp_13\obj\Debug\Csharp_13.pdb
