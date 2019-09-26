@@ -1,7 +1,0 @@
-C:\Users\afpa\source\repos\Csharp_2\Csharp_2\obj\Debug\Csharp_2.csprojAssemblyReference.cache
-C:\Users\afpa\source\repos\Csharp_2\Csharp_2\obj\Debug\Csharp_2.csproj.CoreCompileInputs.cache
-C:\Users\afpa\source\repos\Csharp_2\Csharp_2\bin\Debug\Csharp_2.exe.config
-C:\Users\afpa\source\repos\Csharp_2\Csharp_2\bin\Debug\Csharp_2.exe
-C:\Users\afpa\source\repos\Csharp_2\Csharp_2\bin\Debug\Csharp_2.pdb
-C:\Users\afpa\source\repos\Csharp_2\Csharp_2\obj\Debug\Csharp_2.exe
-C:\Users\afpa\source\repos\Csharp_2\Csharp_2\obj\Debug\Csharp_2.pdb

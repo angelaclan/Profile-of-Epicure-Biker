@@ -1,7 +1,0 @@
-C:\Users\afpa\source\repos\exercise\exercise\obj\Debug\exercise.csprojAssemblyReference.cache
-C:\Users\afpa\source\repos\exercise\exercise\obj\Debug\exercise.csproj.CoreCompileInputs.cache
-C:\Users\afpa\source\repos\exercise\exercise\bin\Debug\exercise.exe.config
-C:\Users\afpa\source\repos\exercise\exercise\bin\Debug\exercise.exe
-C:\Users\afpa\source\repos\exercise\exercise\bin\Debug\exercise.pdb
-C:\Users\afpa\source\repos\exercise\exercise\obj\Debug\exercise.exe
-C:\Users\afpa\source\repos\exercise\exercise\obj\Debug\exercise.pdb

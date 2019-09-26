@@ -1,7 +1,0 @@
-C:\Users\afpa\source\repos\Csharp_10\Csharp_10\bin\Debug\Csharp_10.exe.config
-C:\Users\afpa\source\repos\Csharp_10\Csharp_10\bin\Debug\Csharp_10.exe
-C:\Users\afpa\source\repos\Csharp_10\Csharp_10\bin\Debug\Csharp_10.pdb
-C:\Users\afpa\source\repos\Csharp_10\Csharp_10\obj\Debug\Csharp_10.csprojAssemblyReference.cache
-C:\Users\afpa\source\repos\Csharp_10\Csharp_10\obj\Debug\Csharp_10.csproj.CoreCompileInputs.cache
-C:\Users\afpa\source\repos\Csharp_10\Csharp_10\obj\Debug\Csharp_10.exe
-C:\Users\afpa\source\repos\Csharp_10\Csharp_10\obj\Debug\Csharp_10.pdb
